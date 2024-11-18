@@ -13,7 +13,7 @@ Check add python to path when installing.
 
   
 
-Do a `git clone https://github.com/skynette/paystack-django-integration.git`
+Do a `git clone https://github.com/Gurudeen2/paysmentsystem-django.git`
 
 and then navigate into the folder created
 
